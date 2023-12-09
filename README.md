@@ -3,6 +3,10 @@
 
 DOM Components Package is a library that you can use to create reactive web components. It is lightweight and provides you with a lot of contol over your web components.
 
+Example App source code: [This link](https://github.com/jamesTanna/sample-dom-components-project/tree/master)
+
+Example Live website url: [This link](https://dom-components-package-ex.cyclic.app/)
+
 ***It can be used by both people with knowledge and without knowledge of web components as this package does the web components part for you.***
 
 ### Making a web component
